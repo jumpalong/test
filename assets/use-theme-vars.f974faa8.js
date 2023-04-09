@@ -1,1 +1,0 @@
-import{m as i,ck as c,n as t,cl as m}from"./index.6c43580b.js";function u(){const r=i(c,null);return t(()=>{if(r===null)return m;const{mergedThemeRef:{value:n},mergedThemeOverridesRef:{value:e}}=r,o=(n==null?void 0:n.common)||m;return e!=null&&e.common?Object.assign({},o,e.common):o})}export{u};
