@@ -1,1 +1,0 @@
-import{an as c,ag as i,a9 as s,au as o,aj as r}from"./index.d4beb9d4.js";const h={duration:c.eventCacheDuration,...i},p=s()((e,n)=>{const a=Object.assign({},h,n);return{initialization(){try{const t=o(e,a);t&&this.beltline.pushEvent(t)}catch{}this.beltline.addStaff({push(t){r(t.id,t,a)}})}}});export{p as g};
