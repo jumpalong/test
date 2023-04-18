@@ -1,1 +1,0 @@
-import{U as n,V as s}from"./index.ddbfeb2e.js";const[i,a]=n(()=>{const o=s(new Map);return{loginCompleteHook:o,async runHook(){for(const[e,t]of o.value.entries())await t()}}}),[l,p]=n(o=>{const e=a();return{setHook(t){!e||e.loginCompleteHook.value.set(o.value,t)}}});export{i as a,a as b,l as p,p as u};
