@@ -1,1 +1,0 @@
-import{a as c}from"./Staff.e039c64f.js";import{aF as o}from"./index.1b90d9b0.js";const t=o(new Map),d=c()(()=>({push(e,n,{url:r}){if(r){const a=t.get(e.id);a?a.add(r):t.set(e.id,new Set().add(r))}},feat:{getSourceUrls:s}}));function s(e){return t.get(e)}export{d as c,s as g};
