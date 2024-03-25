@@ -1,1 +1,0 @@
-import{k as e}from"./index-Bp8Ru9nj.js";function f(t=8){return Math.random().toString(16).slice(2,2+t)}function i(t,r){const n=[];for(let o=0;o<t;++o)n.push(r);return n}function a(t,r){return e(()=>{for(const n of r)if(t[n]!==void 0)return t[n];return t[r[r.length-1]]})}export{f as c,i as r,a as u};
